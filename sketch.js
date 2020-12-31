@@ -78,6 +78,7 @@ function draw() {
   text(" 200 ", 560, 550);
   text(" 200 ", 640, 550);
   text(" 200 ", 720, 550);
+  text("Click to release a particle.",400,650);
   
 
 
